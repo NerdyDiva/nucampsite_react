@@ -9,7 +9,7 @@ function RenderCard({item}) {
             <CardBody>
                 <CardTitle>{item.name}</CardTitle>
                 <CardText>{item.description}</CardText>
-            </CardBody>
+            </CardBody> 
         </Card>
     );
 }
